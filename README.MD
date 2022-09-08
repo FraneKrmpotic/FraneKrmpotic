@@ -10,7 +10,9 @@
 
 ### Connect with me:
 
-[![linkedin](https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/frane-krmpotic-7705a422a/#gh-light-mode-only)
+<p align="left">   
+  <a href="https://www.linkedin.com/in/frane-krmpotic-7705a422a/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="android" width="40" height="40"/> </a> 
+</p>
 
 ### Languages and Tools:
 
