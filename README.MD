@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![linkedin](https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/frane-krmpotic-7705a422a/#gh-light-mode-only)
 
 ### Languages and Tools:
 
