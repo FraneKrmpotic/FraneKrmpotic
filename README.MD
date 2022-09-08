@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <p align="left">   
-  <a href="https://www.linkedin.com/in/frane-krmpotic-7705a422a/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://www.linkedin.com/in/frane-krmpotic-7705a422a/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a> 
 </p>
 
 ### Languages and Tools:
