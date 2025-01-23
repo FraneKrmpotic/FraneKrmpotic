@@ -1,6 +1,6 @@
 # Hi there, I'm Frane 👋
 
-## I'm a Student, Developer, Brother, and DJ!!
+## I'm a Developer, Brother, and DJ!!
 
 - 🔭 Working at Micro-Link
 - 🌱 I’m currently learning everything 🤣
