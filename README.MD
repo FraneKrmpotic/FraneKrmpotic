@@ -4,7 +4,7 @@
 
 - 🔭 Working at Micro-Link
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about web development
+- 🥅 2025 Goals: Learn more about web development
 - ⚡ Fun fact: I love to play guitar
 - 📫 You can reach me at **[LinkedIn](https://www.linkedin.com/in/frane-krmpotic-7705a422a/)**
 
